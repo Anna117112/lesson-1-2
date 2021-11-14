@@ -1,4 +1,4 @@
-public class dz2 {
+public class dz_2 {
 
 
     public static void main(String[] args) {
